@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [windows](windows)
-   * windows/test
+   * [windows/test](windowstest.md)
 

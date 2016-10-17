@@ -1,9 +1,9 @@
 # Summary
 
-* [IIS](IIS/website-app-pool-user.md)
+* [IIS](IIS/readme.md)
     * [Website App Pool user](IIS/website-app-pool-user.md)
-* [Windows](windows/rdp-change-password.md)
+* [Windows](windows/readme.md)
     * [Change remote machine password with RPD](windows/rdp-change-password.md)
-* [NodeJs](Node/upgrade-npm-windows.md)
+* [NodeJs](Node/readme.md)
     * [Upgrade Node on Windows](Node/upgrade-npm-windows.md)  
 
